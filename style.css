@@ -1,0 +1,52 @@
+body{
+    color:rgb(255, 115, 0);
+    background-color: rgba(0, 0, 0, 0.952);
+    font-family: "Castoro", serif;
+}
+
+header{
+    border: solid 2px rgb(248, 4, 4);
+    padding: 5px;
+    font-size: 40 ;
+}
+
+
+.chamada{background-color: rgba(0, 0, 0, 0.74);
+padding-bottom: 55px ;
+padding-top: 25px ;
+display:flex;
+justify-content: center;
+
+}
+
+.chamada-texto{
+    margin-right: 5%;
+}
+
+h1{
+    font-size: 60px;
+}
+
+p{
+    font-size: 20px;
+}
+    
+
+    .treino{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .videos-treino img {
+      height: 150px;
+        opacity: 50%;
+    }
+
+    .treino img:hover{
+        opacity: 1.0;
+        border: 2px solid rgb(255, 0, 0);
+    }
+
+    .treino h2{
+        color: rgb(255, 215, 0);
+    }
